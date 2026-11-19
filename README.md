@@ -1,5 +1,3 @@
-# Hi, I'm Nicola Ronconi 👋
-
 ## About Me
 
 - Information Technology Services (ITS) at Temple University
